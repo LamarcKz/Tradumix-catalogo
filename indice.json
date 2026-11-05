@@ -1,0 +1,61 @@
+{
+  "formato": 1,
+  "atualizado": "2026-11-05",
+  "traducoes": [
+    {
+      "formato": 1,
+      "id": "jak2-usa-ptbr",
+      "jogo": {
+        "id": "jak2",
+        "nome": "Jak II",
+        "console": "ps2"
+      },
+      "versao": "1.0",
+      "estado": "beta",
+      "idioma": "pt-BR",
+      "data": "2026-11-05",
+      "origem": {
+        "serial": "SCUS-97265",
+        "regiao": "usa",
+        "hash_ra": "f51c94dd47cc2eb385d5733389428121",
+        "tamanho": 4410671104
+      },
+      "resultado": {
+        "hash_ra": "f51c94dd47cc2eb385d5733389428121",
+        "tamanho": 4410671104
+      },
+      "tradutores": [
+        {
+          "nome": "LamarcKz",
+          "link": null
+        }
+      ],
+      "permissao": null,
+      "descricao": "Acrescenta Português, com a bandeira do Brasil, no menu de legendas. Com ele escolhido, menus, missões, dicas e as legendas das cenas ficam em português. As vozes continuam no idioma escolhido em Language.",
+      "traduzido": [
+        "Menus",
+        "Missões",
+        "Dicas",
+        "Legendas das cenas",
+        "Letras acentuadas na fonte"
+      ],
+      "limitacoes": [
+        "Algumas palavras desenhadas em textura continuam em inglês: HUD das corridas, o MISS do Hip Hog, um cartão de título da abertura e placas.",
+        "A tela de aviso legal fica como no original."
+      ],
+      "arquivos": {
+        "patch": "patch.xdelta"
+      },
+      "download": {
+        "patch": {
+          "url": "https://github.com/LamarcKz/Tradumix-catalogo/releases/download/jak2-usa-ptbr-v1.0/jak2-usa-ptbr-v1.0.xdelta",
+          "sha256": "3ce44ebfecc30fc110c57f4fdf6ec0cd8c483fb3403d60ef3a671afb5f26e8de",
+          "tamanho": 238940
+        }
+      },
+      "midia": {
+        "trailer_youtube": "Pj-ueiUYEbg"
+      }
+    }
+  ]
+}
