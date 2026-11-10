@@ -154,6 +154,7 @@
       "data": "2026-11-09",
       "origem": {
         "loja": "steam",
+        "steam_app_id": 758330,
         "versao": "3291213",
         "referencias": [
           {
