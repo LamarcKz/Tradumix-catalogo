@@ -55,6 +55,59 @@
           "tamanho": 238940
         }
       }
+    },
+    {
+      "formato": 2,
+      "id": "jackiechan-usa-ptbr",
+      "jogo": {
+        "id": "jackiechan-stuntmaster",
+        "nome": "Jackie Chan Stuntmaster"
+      },
+      "plataforma": "ps1",
+      "instalacao": {
+        "tipo": "imagem-xdelta",
+        "patch": {
+          "nome": "patch.xdelta",
+          "url": "https://github.com/LamarcKz/Tradumix-catalogo/releases/download/jackiechan-usa-ptbr-v1.0/jackiechan-usa-ptbr-v1.0.xdelta",
+          "sha256": "9aee4512d2fb387311268b7d6e1483f37a677b090c2b9b4e719e479284d72967",
+          "tamanho": 29771
+        }
+      },
+      "versao": "1.0",
+      "estado": "publicada",
+      "idioma": "pt-BR",
+      "data": "2026-11-09",
+      "origem": {
+        "serial": "SLUS-00684",
+        "regiao": "usa",
+        "hash_ra": "92a7171a0322ca07e2529575e3692e12",
+        "tamanho": 627972240
+      },
+      "resultado": {
+        "hash_ra": "92a7171a0322ca07e2529575e3692e12",
+        "tamanho": 627972240
+      },
+      "tradutores": [
+        {
+          "nome": "LamarcKz",
+          "link": "https://github.com/LamarcKz"
+        }
+      ],
+      "permissao": null,
+      "descricao": "Menus, mensagens e dicas em português do Brasil, com letras acentuadas nas fontes do jogo. As vozes e os vídeos continuam em inglês.",
+      "traduzido": [
+        "Menus e opções",
+        "Mensagens do Memory Card",
+        "Dicas da tela de pausa",
+        "Tela de jogo e resultado da luta",
+        "Tela de aviso legal",
+        "Letras acentuadas nas fontes"
+      ],
+      "limitacoes": [
+        "Os logos Loading e Game Over continuam em inglês.",
+        "O contador de golpes mostra HITS, como no original.",
+        "Placas e letreiros dos cenários continuam como no original."
+      ]
     }
   ]
 }
