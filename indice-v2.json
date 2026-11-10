@@ -108,6 +108,92 @@
         "O contador de golpes mostra HITS, como no original.",
         "Placas e letreiros dos cenários continuam como no original."
       ]
+    },
+    {
+      "formato": 2,
+      "id": "shenmue-pc-ptbr",
+      "jogo": {
+        "id": "shenmue",
+        "nome": "Shenmue I & II"
+      },
+      "plataforma": "pc",
+      "instalacao": {
+        "tipo": "pasta-do-jogo",
+        "pacote": {
+          "nome": "pacote.zip",
+          "url": "https://github.com/LamarcKz/Tradumix-catalogo/releases/download/shenmue-pc-ptbr-v1.0/shenmue-pc-ptbr-v1.0.zip",
+          "sha256": "d65083a6c647d3b4659895bc8810c900f67ab2b662a5797c55c127bfd20c298f",
+          "tamanho": 7418999
+        },
+        "arquivos": [
+          {
+            "caminho": "sm1/archives/dx11/mods/common_7458725c.tac",
+            "sha256": "36e2d394254168f62f5e84277fdf104c31c6e0e9cc84a24518df8945fe059953",
+            "tamanho": 28902040
+          },
+          {
+            "caminho": "sm1/archives/dx11/mods/common_7458725c.tad",
+            "sha256": "2eadea7a6f1e709bf3d6f25d2dc5e2dc7cb005deef133ef4a48e6f143c6530cc",
+            "tamanho": 1020
+          },
+          {
+            "caminho": "sm2/archives/dx11/mods/common_74587266.tac",
+            "sha256": "09be2003ce9b80e25c4b698754682ab80742b252f131fcde2a5f6ff11c914d1e",
+            "tamanho": 40971899
+          },
+          {
+            "caminho": "sm2/archives/dx11/mods/common_74587266.tad",
+            "sha256": "15ffde62b5ad5c9686339bbe9bf736c2fa7d7c78e0ab6dcf12c0947a25a2ba9c",
+            "tamanho": 1084
+          }
+        ]
+      },
+      "versao": "1.0",
+      "estado": "publicada",
+      "idioma": "pt-BR",
+      "data": "2026-11-09",
+      "origem": {
+        "loja": "steam",
+        "versao": "3291213",
+        "referencias": [
+          {
+            "caminho": "sm1/Shenmue.exe",
+            "sha256": "7ecd508cd7fe65e40b1f47a9dfb94c358f4f6cc482be1ad01d107e2759562ab0"
+          },
+          {
+            "caminho": "sm2/Shenmue2.exe",
+            "sha256": "49bd545c2fa94e6c5c8208bd8bdc247927570dfbd9a87db643eb7c3ae265bf95"
+          },
+          {
+            "caminho": "sm1/archives/dx11/data/common_5be2c578.tad",
+            "sha256": "5c2cf526150d0efcda2e40fb1ffdb0062c936843b6f1b74d9da75eed9faf2bb8"
+          }
+        ]
+      },
+      "resultado": {},
+      "tradutores": [
+        {
+          "nome": "LamarcKz",
+          "link": "https://github.com/LamarcKz"
+        }
+      ],
+      "permissao": null,
+      "descricao": "Shenmue I e Shenmue II em português do Brasil: legendas, menus, ajuda, itens, golpes e o caderno do Ryo, com letras acentuadas nas fontes. Instala só arquivos de texto, fonte e imagens do menu numa pasta à parte de cada jogo: nenhum arquivo original é substituído. Use os jogos com legendas em inglês.",
+      "traduzido": [
+        "Shenmue I e Shenmue II",
+        "Legendas de todos os diálogos",
+        "Menus e opções",
+        "Botões e títulos do menu inicial",
+        "Textos de ajuda",
+        "Itens, golpes e pergaminhos",
+        "Caderno do Ryo",
+        "Letras acentuadas nas fontes"
+      ],
+      "limitacoes": [
+        "Placas e letreiros das lojas e do cenário continuam como no original.",
+        "No Shenmue II, os mapas também; nas legendas, os nomes de lugares e lojas ficam em inglês e só a parte genérica é traduzida (ex.: Bairro Wise Men's).",
+        "As vozes continuam em inglês ou japonês."
+      ]
     }
   ]
 }
